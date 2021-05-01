@@ -1,0 +1,63 @@
+#scene{
+  background: url("start.jpg");
+  height: 629px;
+  width:1300px;
+}
+#situation1{
+  position: absolute;
+  top:200px;
+}
+#situation2{
+  position: absolute;
+  top:240px;
+  left:160px;
+}
+#situation3{
+  position: absolute;
+  top:360px;
+  left:190px;
+  height:120px;
+  width:150px;
+}
+#situation4{
+  
+  position: absolute;
+  left:340px;
+  top:280px;
+  width:110px;
+  height:80px;
+}
+#situation5{
+  
+  position: absolute;
+  top:200px;
+  left:480px;
+  height:100px;
+  width:100px;
+}
+#situation6{
+  
+  position: absolute;
+  top:150px;
+  left:630px;
+  width:60px;
+  height:60px;
+}
+#situation7{
+  
+  position: absolute;
+  left:760px;
+  top:190px;
+}
+#situation8{
+  
+  position: absolute;
+  left:1010px;
+  top:200px;
+}
+#situation9{
+  
+  position: absolute;
+  left:1150px;
+  top:230px;
+}
